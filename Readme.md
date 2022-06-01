@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=AWS DevOps Engineer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/Gakcin/gakcin/main/devops.jpg" />
@@ -23,7 +23,7 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/0" alt="Recent Article 1">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
-
+<!--
 ## Repos
 
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=gakcin&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
@@ -48,4 +48,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
 
-![](https://komarev.com/ghpvc/?username=gakcin)
+![](https://komarev.com/ghpvc/?username=gakcin) -->
