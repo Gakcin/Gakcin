@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=AWS DevOps Engineer.++++++++++)](https://git.io/typing-svg)
 
-<p align="center">
+<!-- <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/Gakcin/gakcin/main/devops.jpg" />
 </p>   -->
 <h2 align="center">Hi there 👋, I'm Gökhan!</h2>
